@@ -1,0 +1,5 @@
+.vs
+imLib/imLib/x64
+imLib/x64/Debug
+
+*.vcxproj.user
