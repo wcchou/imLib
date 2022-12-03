@@ -3,5 +3,5 @@ using namespace std;
 
 void libFunc()
 {
-    std::cout << "imLib version 2" << std::endl;
+    std::cout << "imLib version 3" << std::endl;
 }
